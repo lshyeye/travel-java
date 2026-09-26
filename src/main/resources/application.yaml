@@ -1,0 +1,6 @@
+server:
+  port: 3200
+llm:
+  base-url: https://api.siliconflow.cn/v1
+  model: deepseek-ai/DeepSeek-V4-Flash
+  api-key: xxxxx
